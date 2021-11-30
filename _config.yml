@@ -1,14 +1,18 @@
+theme: jekyll-theme-minimal
 title: <p align="center"> Prahith N </p>
 logo: /assets/img/logo2.jpeg
 
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/prahith-n-2a0ab2184">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/prahith-n-2a0ab2184/">LinkedIn</a> |
   <a href="https://github.com/Prahith1">GitHub</a>
   
   <br>   
-  I'm pursuing my education on PG Diploma in ML and AI and I am working with NTT data on Mainframes and i have completed my Engineering in Electronics and communication.
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
   <br>
   </p>
 
