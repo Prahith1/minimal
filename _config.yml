@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Prahith N </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/prahith-n-2a0ab2184">LinkedIn</a> |
+  <a href="https://github.com/Prahith1">GitHub</a>
+  
+  <br>   
+  I'm pursuing my education on PG Diploma in ML and AI and I am working with NTT data on Mainframes and i have completed my Engineering in Electronics and communication.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
